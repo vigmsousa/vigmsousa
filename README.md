@@ -1,16 +1,13 @@
-### Hi there 👋
+<div>
+  <h3 align="left">Roi!! Meu nome é Vitor Gabriel e sou estudante de informática</h3>  
+</div>
 
-<!--
-**vigmsousa/vigmsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h4 align="center">GitHub Stats</h4> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vigmsousa&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigmsousa&layout=compact&theme=radical">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h6 align="center"><i><q>Um verdadeiro mestre é um eterno aprendiz.</i></q></h6>
+</div>
